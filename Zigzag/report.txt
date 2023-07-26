@@ -1,0 +1,12 @@
+USERINPUT:
+Length of one sections is 15 cm
+Total Number of zigzag sections are 2
+
+SPEED & TIME CALCULATIONS FOR ZIGZAG MOVEMENT:
+The random speed generated or enterred by you is 14.0cm/s
+The time required for one section is  1.071s
+
+CALCULATIONS MADE FOR REPORT:
+The total distance of zigzag is30cm
+The total time required 2.142857142857143s
+The total Straight line distance is 42.42640687119285cm
