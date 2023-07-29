@@ -17,12 +17,7 @@ ZigZag is my 1st year (2019-2020) software project, where I used JAVA to build t
 - Successfully tested the design.
 
 ## Here is a video of showcasing the project:
-<div style="position:relative;width:fit-content;height:fit-content;">
-            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/Vj4gSOVpSyo?utm_source=embed&utm_medium=embed&utm_campaign=watch">
-                <img loading="lazy" style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-            </a>
-            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/Vj4gSOVpSyo/embed" width="640" height="360"></iframe>
-        </div>
+https://github.com/HarshBaliPortfolio/Year1Project/assets/140274633/373b1d36-9f29-4153-9c2d-e7fa664f9cd8 
 
 ## Development Outcome: 
 - Gained confidence in applying JAVA programming skills & knowledge.
