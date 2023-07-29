@@ -1,5 +1,5 @@
 # ZigZag 
-ZigZag is my 1st year (2019-2020) software project, where I used JAVA to build the program, which makes Finch Robot traverse in a manner, specified in the case study.
+ZigZag is my 1st year (2019-2020) software project, where I used JAVA to build the program, which makes Finch Robot traverse in a zigzag manner.
 
 ## The project workflow included:
 1. Gathering requirements from a case study.
