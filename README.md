@@ -1,4 +1,4 @@
-# ZigZag /\/
+# ZigZag 
 ZigZag is my 1st year (2019-2020) software project, where I used JAVA to build the program, which makes Finch Robot traverse in a manner, specified in the case study.
 
 ## The project workflow included:
@@ -19,7 +19,7 @@ Requirements → Design → Implementation → Testing
 - Successfully tested the design.
 
 ## Here is a video of showcasing the project:
-
+https://clipchamp.com/watch/NDEWDmZIMsS 
 
 ## Development Outcome: 
 - Gained confidence in applying JAVA programming skills & knowledge.
