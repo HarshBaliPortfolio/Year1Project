@@ -8,9 +8,7 @@ ZigZag is my 1st year (2019-2020) software project, where I used JAVA to build t
 5. Testing the software program.
 6. Deliver the project within the specified time-line.
 
-## Software development lifecycle used: 
-Waterfall
-Requirements → Design → Implementation → Testing
+## Software development lifecycle used: Waterfall
 
 
 ## Project Outcome:
@@ -19,7 +17,12 @@ Requirements → Design → Implementation → Testing
 - Successfully tested the design.
 
 ## Here is a video of showcasing the project:
-https://clipchamp.com/watch/NDEWDmZIMsS 
+<div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/Vj4gSOVpSyo?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img loading="lazy" style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/Vj4gSOVpSyo/embed" width="640" height="360"></iframe>
+        </div>
 
 ## Development Outcome: 
 - Gained confidence in applying JAVA programming skills & knowledge.
