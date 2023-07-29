@@ -3,7 +3,7 @@ ZigZag is my 1st year (2019-2020) software project, where I used JAVA to build t
 
 ## The project workflow included:
 1. Gathering requirements from a case study.
-2. Creating and documenting the design for the program. Check out the Design_doc :] https://github.com/HarshBaliPortfolio/Year1Project/blob/main/Design_doc.pdf 
+2. Creating and documenting the design for the program. [Check out the Design_doc](Design_doc.pdf)
 4. Implementing the design using JAVA and Finch API.
 5. Testing the software program.
 6. Deliver the project within the specified time-line.
