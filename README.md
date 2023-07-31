@@ -22,7 +22,7 @@ https://github.com/HarshBaliPortfolio/Year1Project/assets/140274633/373b1d36-9f2
 _Please see the link, to view the video in better quality:_
 https://clipchamp.com/watch/yGUNdNS3ZxV 
 
-## Person Development Outcome: 
+## Personal Development Outcome: 
 - Gained confidence in applying JAVA programming skills & knowledge.
 - Gained First-hand experience of managing a software development project.
 - Experienced pros/cons of developing a software using waterfall
