@@ -19,7 +19,10 @@ ZigZag is my 1st year (2019-2020) software project, where I used JAVA to build t
 ## Here is a video of showcasing the project:
 https://github.com/HarshBaliPortfolio/Year1Project/assets/140274633/373b1d36-9f29-4153-9c2d-e7fa664f9cd8 
 
-## Development Outcome: 
+_Please see the link below, to view the video in better quality:_
+https://clipchamp.com/watch/yGUNdNS3ZxV 
+
+## Person Development Outcome: 
 - Gained confidence in applying JAVA programming skills & knowledge.
 - Gained First-hand experience of managing a software development project.
 - Experienced pros/cons of developing a software using waterfall
